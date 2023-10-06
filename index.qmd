@@ -1,0 +1,25 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/huensch
+    - icon: envelope
+      text: Email
+      href: "mailto:amh@pitt.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I am Assistant Professor in the Department of Linguistics at the University of Pittsburgh. I teach courses in second language acquisition, pronunciation pedagogy, and quantitative research methods. I am currently Associate Editor for Open Science of Applied Psycholinguistics and former Reviews Editor of the Journal of Second Language Pronunciation.
+
+My research examines second language speech development in and outside of the classroom, including the relationship between speech perception and production, pronunciation attitudes of classroom foreign language learners, and fluency development during study abroad. I recently completed a project investigating foreign language instructors’ beliefs and classroom practices related to pronunciation. I am currently exploring the relationship among intelligibility, accentedness, and comprehensibility in L2 Spanish.
+
+My most recent work has been published in Language Learning, Studies in Second Language Acquisition, and The Modern Language Journal. I received my PhD in Linguistics and Second Language Studies from the University of Illinois at Urbana-Champaign.
+
